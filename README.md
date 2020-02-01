@@ -1,3 +1,3 @@
 项目结构
 
-![](https://imgchr.com/i/1JCo5R)
+![](https://s2.ax1x.com/2020/02/01/1JCo5R.png)
