@@ -1,3 +1,3 @@
 项目结构
 
-![](./图片1.png)
+![](https://imgchr.com/i/1JCo5R)
