@@ -1,0 +1,7 @@
+GET /index.html?name=123&pwd=5456 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Accept-Language: en-US,zh-CN;q=0.5
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2)
+Accept-Encoding: gzip, deflate
+Host: localhost:8888
+Connection: Keep-Alive

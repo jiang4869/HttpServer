@@ -1,0 +1,10 @@
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.checkBounds(String.java:381)
+	at java.lang.String.<init>(String.java:545)
+	at httpserver.Request.receive(Request.java:56)
+	at httpserver.Request.<init>(Request.java:36)
+	at httpserver.ServerFactory.<init>(ServerFactory.java:20)
+	at httpserver.Server.start(Server.java:31)
+	at httpserver.Server.<init>(Server.java:19)
+	at httpserver.Server.<init>(Server.java:12)
+	at test.Test.main(Test.java:14)

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .a{
+            width:200px;
+            height:200px;
+            margin:0px;
+            padding:0px;
+            background: red;
+            text-align:center;
+        }
+    </style>
+</head>
+<body>
+    <div class="a">
+        登录
+        请输入您的用户信息
+    </div>
+    <form method="post" action="http://localhost/login">
+        username:<input type="text" name="username">
+        <br>
+        password:<input type="text"  name="pwd">
+        <br>
+        <input type="submit" value="提交">
+    </form>
+    <div class="a">
+        注册
+        请输入您的用户信息
+    </div>
+    <form method="post" action="http://localhost/reg">
+        username:<input type="text" name="username">
+        <br>
+        password:<input type="text"  name="pwd">
+        <br>
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>

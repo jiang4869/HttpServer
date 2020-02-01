@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff06d8e8-1873-4209-ae85-c3b388c97bde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V6LUZnklV1oeQ3h1SyYgKM2d2P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\HTTPServer\wwwroot" />
+      <recent name="D:\IdeaProjects\HTTPServer\wwwroot\game" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="HTTPServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="httpserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff06d8e8-1873-4209-ae85-c3b388c97bde" name="Default Changelist" comment="" />
+      <created>1572627681345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572627681345</updated>
+      <workItem from="1572627684243" duration="576000" />
+      <workItem from="1572709803317" duration="1190000" />
+      <workItem from="1572945701419" duration="2164000" />
+      <workItem from="1573043213629" duration="516000" />
+      <workItem from="1573050470948" duration="9669000" />
+      <workItem from="1573124642385" duration="18308000" />
+      <workItem from="1573177527594" duration="596000" />
+      <workItem from="1573537617158" duration="2488000" />
+      <workItem from="1576568619084" duration="1126000" />
+      <workItem from="1577620029967" duration="7410000" />
+      <workItem from="1577671681828" duration="19299000" />
+      <workItem from="1577702592926" duration="112000" />
+      <workItem from="1577702747757" duration="2199000" />
+      <workItem from="1577705218027" duration="9874000" />
+      <workItem from="1577760759287" duration="302000" />
+      <workItem from="1577761079049" duration="4913000" />
+      <workItem from="1577767774314" duration="2879000" />
+      <workItem from="1577770693841" duration="24040000" />
+      <workItem from="1577856591845" duration="317000" />
+      <workItem from="1577950760405" duration="1541000" />
+      <workItem from="1577955604561" duration="21000" />
+      <workItem from="1580562084965" duration="321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="874" y="361" key="#Custom_Plugin_Repositories" timestamp="1577704847876">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="874" y="361" key="#Custom_Plugin_Repositories/0.0.2560.1400@0.0.2560.1400" timestamp="1577704847876" />
+    <state x="874" y="361" key="#HTTP_Proxy" timestamp="1577704899685">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="874" y="361" key="#HTTP_Proxy/0.0.2560.1400@0.0.2560.1400" timestamp="1577704899685" />
+    <state x="1031" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577703809683">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1031" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1577703809683" />
+    <state x="1085" y="384" key="#com.intellij.ide.util.MemberChooser" timestamp="1577762867414">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="384" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1577762867414" />
+    <state x="1059" y="584" width="441" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577779579453">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1059" y="584" width="441" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400@0.0.2560.1400" timestamp="1577779579453" />
+    <state x="556" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577777144093">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="556" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1577777144093" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1577955623645">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1577955623645" />
+    <state width="2517" height="237" key="GridCell.Tab.0.bottom" timestamp="1580562407259">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="237" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1580562407259" />
+    <state width="2517" height="237" key="GridCell.Tab.0.center" timestamp="1580562407259">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="237" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1580562407259" />
+    <state width="2517" height="237" key="GridCell.Tab.0.left" timestamp="1580562407259">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="237" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1580562407259" />
+    <state width="2517" height="237" key="GridCell.Tab.0.right" timestamp="1580562407259">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="237" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1580562407259" />
+    <state width="2517" height="313" key="GridCell.Tab.1.bottom" timestamp="1577718548104">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="313" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1577718548104" />
+    <state width="2517" height="313" key="GridCell.Tab.1.center" timestamp="1577718548104">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="313" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1577718548104" />
+    <state width="2517" height="313" key="GridCell.Tab.1.left" timestamp="1577718548104">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="313" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1577718548104" />
+    <state width="2517" height="313" key="GridCell.Tab.1.right" timestamp="1577718548104">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="313" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1577718548104" />
+    <state x="783" y="345" key="SettingsEditor" timestamp="1577761137230">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="783" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1577761137230" />
+    <state x="972" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1577620046705">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="972" y="527" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1577620046705" />
+    <state x="978" y="593" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577761488575">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="978" y="593" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2560.1400@0.0.2560.1400" timestamp="1577761488575" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1577774496169">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1577774496169" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/servlet/LoginServlet.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/httpserver/Response.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="paramInfo" language="JAVA" />
+        <watch expression="parameterMapValue" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
